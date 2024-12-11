@@ -1,7 +1,7 @@
 
 set KEIL_BIN_PATH=D:\Keil_v5\ARM\ARMCC\bin
-set AXF_PATH=C:\Users\RayanRoshd\Desktop\mohsen\Joystick\Objects
-set TARGET_DIR=C:\Users\RayanRoshd\Desktop\mohsen\Joystick\Objects
+set AXF_PATH=C:\Users\Desktop\Joystick\Objects
+set TARGET_DIR=C:\Users\Desktop\Joystick\Objects
 set CURRENT_PATH=%cd%
 set OUTPUT_FILE=out.bin
 set FINAL_NAME=firmware.bin
